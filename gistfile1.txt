@@ -1,5 +1,9 @@
 Windows 7 All Online/Offline [Retail-MAK] Activation Keys
 =================================================================================
+. Run "Command Prompt" as Administrator
+. slmgr.vbs -ipk Product Key
+. slui4
+=================================================================================
 Windows 7 Ultimate Retail Phone Activation Keys
 RHTBY-VWY6D-QJRJ9-JGQ3X-Q2289
 V77DJ-CT8WB-Y3GXT-X3FBP-6F987
